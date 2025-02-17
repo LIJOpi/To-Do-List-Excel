@@ -13,7 +13,7 @@ This is a customizable and data-driven To-Do List in Excel with analytics, prior
 3. Add your tasks and explore analytics!  
 
 ## Demo  
-![Excel Screenshot](your-image-link-if-any)
+![Excel Screenshot](https://github.com/LIJOpi/To-Do-List-Excel/blob/main/Screenshot%20(26).png)
 
 ---
 *Created by [LIJO JOMON]*  
